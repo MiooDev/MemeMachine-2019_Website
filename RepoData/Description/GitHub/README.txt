@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🎭2️⃣0️⃣1️⃣9️⃣🌐️ The official source repository for the website of the Meme Machine 2019 project, an old Meme generator project by @seanpm2001 from 2019.
